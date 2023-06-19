@@ -1,3 +1,6 @@
 Nombre: Lucas - Apellido: Gaggino
 Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.100.5
 Hora: 16:59
+Nombre: Leonardo De Gregorio
+IP: 192.168.50.2
+Hora: 18:07:08
