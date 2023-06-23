@@ -14,3 +14,6 @@ SI
 
 d-¿De qué forma se comunicaron ustedes?
 Via whatsapp
+
+e-¿Cual es la mejor forma de comunicarse entre ustedes dentro de github?
+Via commits o archivos
